@@ -1,5 +1,4 @@
 //timezone-correct ready version for Render (Asia/Phnom_Penh)
-const express = require("express");
 const { CronJob } = require("cron"); // timezone-capable cron
 const TelegramBot = require("node-telegram-bot-api");
 const fs = require("fs");
@@ -21,12 +20,6 @@ const chatId = [
   "@nitaloverlottrry",
   "@lovn564",
 ];
-
-// --- Express health endpoint (for Render) ---
-const app = express();
-app.get("/", (req, res) => res.send("Auto-sender bot is running"));
-const PORT = process.env.PORT || 10000;
-app.listen(PORT, () => console.log(`HTTP server started on port ${PORT}`));
 
 // --- Telegram Bot ---
 const bot = new TelegramBot(token, { polling: false });
@@ -155,8 +148,6 @@ if (bot && typeof bot.sendVoice === "function") {
 // ========== BEGIN: SCHEDULED JOBS (copied / preserved from your original file) ==========
 // I include all schedules from your original file below — keep them exactly as before.
 // (If you've stored schedules in another file, merge them here.)
-
-
 
 //diamond group
 cron.schedule("00 7 * * *", () => {
@@ -2129,7 +2120,5 @@ cron.schedule("50 18 * * *", () => {
 //     caption: "✨ Good Morning ✨\nHere is your picture of the day 🌄",
 //   }
 // );
-
-
 
 console.log("Bot is configured and cron wrapper is active (Asia/Phnom_Penh).");
