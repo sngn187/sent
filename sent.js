@@ -1,4 +1,5 @@
 //timezone-correct ready version for Render (Asia/Phnom_Penh)
+const express = require("express");
 const { CronJob } = require("cron"); // timezone-capable cron
 const TelegramBot = require("node-telegram-bot-api");
 const fs = require("fs");
@@ -20,6 +21,12 @@ const chatId = [
   "@nitaloverlottrry",
   "@lovn564",
 ];
+
+// --- Express health endpoint (for Render) ---
+const app = express();
+app.get("/", (req, res) => res.send("Auto-sender bot is running"));
+const PORT = process.env.PORT || 10000;
+app.listen(PORT, () => console.log(`HTTP server started on port ${PORT}`));
 
 // --- Telegram Bot ---
 const bot = new TelegramBot(token, { polling: false });
@@ -1463,7 +1470,6 @@ cron.schedule("15 7 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1489,7 +1495,6 @@ cron.schedule("15 8 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1515,7 +1520,6 @@ cron.schedule("15 9 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1541,7 +1545,6 @@ cron.schedule("15 10 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1567,7 +1570,6 @@ cron.schedule("15 11 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1593,7 +1595,6 @@ cron.schedule("15 12 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1619,7 +1620,6 @@ cron.schedule("15 13 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1645,7 +1645,6 @@ cron.schedule("15 14 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1671,7 +1670,6 @@ cron.schedule("15 15 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1697,7 +1695,6 @@ cron.schedule("15 16 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1723,7 +1720,6 @@ cron.schedule("15 17 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1749,7 +1745,6 @@ cron.schedule("15 18 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
@@ -1775,7 +1770,6 @@ cron.schedule("15 7 * * *", () => {
           "[📞ចាក់ជាមួយមេ បូរី](https://t.me/boreyrum123)📩\n" +
           "[📞ចាក់ជាមួយ ស្រីខួច](https://t.me/SreykhouchLovn)📩\n" +
           "[📞ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)📩\n" +
-          "[📞ចាក់ជាមួយ អូនជិង](https://t.me/jing_jingLovn10)📩\n" +
           "[📞ចាក់ជាមួយ លក្ខិណា](https://t.me/mozun1681681)📩\n" +
           "[📞ចាក់ជាមួយ ណាវីន](https://t.me/lovnnavin32)📩\n" +
           "[📞ចាក់ជាមួយ អូនលាង](https://t.me/ounleanglovn)📩\n" +
