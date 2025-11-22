@@ -400,6 +400,7 @@ cron.schedule("15 18 * * *", () => {
 
 //កន្ទុយលេងហេងៗ
 //sent link agent every day at 8:15 AM after result @nitaloverlottrry អន្តរជាតិ
+
 cron.schedule("15 8 * * *", () => {
   for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@nitaloverlottrry") {
@@ -416,6 +417,7 @@ cron.schedule("15 8 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -440,6 +442,7 @@ cron.schedule("00 9 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -464,6 +467,7 @@ cron.schedule("15 10 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -488,6 +492,7 @@ cron.schedule("50 10 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -512,6 +517,7 @@ cron.schedule("15 12 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -536,6 +542,7 @@ cron.schedule("15 13 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -560,6 +567,7 @@ cron.schedule("45 13 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -584,6 +592,7 @@ cron.schedule("15 14 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -608,6 +617,7 @@ cron.schedule("00 16 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -631,6 +641,7 @@ cron.schedule("15 16 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -655,6 +666,7 @@ cron.schedule("45 16 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -679,6 +691,7 @@ cron.schedule("15 18 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -703,6 +716,7 @@ cron.schedule("45 18 * * *", () => {
           "[📥ចាក់ជាមួយ អូនលក្ខិណា](https://t.me/mozun1681681)\n" +
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
+          "[📥ចាក់ជាមួយ  អូនស៊ីណា](https://t.me/sinadiamond_1)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
