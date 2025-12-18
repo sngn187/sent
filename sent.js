@@ -139,23 +139,6 @@ if (bot && typeof bot.sendVoice === "function") {
   };
 }
 
-// --- All your schedule calls follow below ---
-// IMPORTANT: Keep the same cron expressions you already have (they will run in Asia/Phnom_Penh).
-// Example conversions from your original file:
-//
-// Old:
-// cron.schedule("00 7 * * *", () => { /* send photo to some chats */ });
-//
-// New (unchanged call style):
-// cron.schedule("00 7 * * *", () => { ... });
-//
-// Because we provided cron.schedule wrapper, all existing calls will work unchanged,
-// but now they run at Cambodia time.
-
-// ========== BEGIN: SCHEDULED JOBS (copied / preserved from your original file) ==========
-// I include all schedules from your original file below — keep them exactly as before.
-// (If you've stored schedules in another file, merge them here.)
-
 //diamond group
 cron.schedule("00 7 * * *", () => {
   for (let i = 0; i < chatId.length; i++) {
@@ -173,6 +156,7 @@ cron.schedule("00 7 * * *", () => {
     }
   }
 });
+
 
 cron.schedule("30 8 * * *", () => {
   for (let i = 0; i < chatId.length; i++) {
