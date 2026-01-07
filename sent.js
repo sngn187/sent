@@ -280,6 +280,7 @@ cron.schedule("00 9 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -309,6 +310,7 @@ cron.schedule("50 10 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -338,6 +340,7 @@ cron.schedule("15 13 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -367,6 +370,7 @@ cron.schedule("00 16 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -396,6 +400,7 @@ cron.schedule("15 18 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -422,6 +427,7 @@ cron.schedule("15 8 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -447,6 +453,7 @@ cron.schedule("00 9 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -472,6 +479,7 @@ cron.schedule("15 10 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -497,6 +505,7 @@ cron.schedule("50 10 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -522,6 +531,7 @@ cron.schedule("15 12 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -547,6 +557,7 @@ cron.schedule("15 13 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -572,6 +583,7 @@ cron.schedule("45 13 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -597,6 +609,7 @@ cron.schedule("15 14 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -622,6 +635,7 @@ cron.schedule("00 16 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -646,6 +660,7 @@ cron.schedule("15 16 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -671,6 +686,7 @@ cron.schedule("45 16 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -696,6 +712,7 @@ cron.schedule("15 18 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -721,6 +738,7 @@ cron.schedule("45 18 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
+          "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -751,6 +769,7 @@ cron.schedule("15 8 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -780,6 +799,7 @@ cron.schedule("00 9 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -809,6 +829,7 @@ cron.schedule("15 10 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -838,6 +859,7 @@ cron.schedule("50 10 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -867,6 +889,7 @@ cron.schedule("15 12 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -896,6 +919,7 @@ cron.schedule("15 13 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -925,6 +949,7 @@ cron.schedule("45 13 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -954,6 +979,7 @@ cron.schedule("15 14 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -983,6 +1009,7 @@ cron.schedule("00 16 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1011,6 +1038,7 @@ cron.schedule("15 16 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1040,6 +1068,7 @@ cron.schedule("45 16 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1069,6 +1098,7 @@ cron.schedule("15 18 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1098,6 +1128,7 @@ cron.schedule("45 18 * * *", () => {
           "[📥ចាក់ជាមួយ បងចិត្រា](https://t.me/lea8gm5ttzx)\n" +
           "[📥ចាក់ជាមួយ អូនមួយ](https://t.me/moydainond)\n" +
           "[📥ចាក់ជាមួយ បងណាវីន](https://t.me/lovnnavin32)\n" +
+          "[📥ចាក់ជាមួយ និរន្ដរ៍](https://t.me/Nirorn9999)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
