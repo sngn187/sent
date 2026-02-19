@@ -1478,7 +1478,7 @@ cron.schedule("15 8 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1488,7 +1488,7 @@ cron.schedule("15 8 * * *", () => {
 
 //sent link agent every day at 9:00 AM after result @daimond678 ខ្មែរVIP
 cron.schedule("00 9 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1497,7 +1497,7 @@ cron.schedule("00 9 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1507,7 +1507,7 @@ cron.schedule("00 9 * * *", () => {
 
 //sent link agent every day at 10:15 AM after result @daimond678 អន្តរជាតិ
 cron.schedule("15 10 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1516,7 +1516,7 @@ cron.schedule("15 10 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1526,7 +1526,7 @@ cron.schedule("15 10 * * *", () => {
 
 //sent link agent every day at 10:50 AM after result @daimond678 យួន
 cron.schedule("50 10 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1535,7 +1535,7 @@ cron.schedule("50 10 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1545,7 +1545,7 @@ cron.schedule("50 10 * * *", () => {
 
 //sent link agent every day at 12:15 PM after result @daimond678 អន្តរជាតិ
 cron.schedule("15 12 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1554,7 +1554,7 @@ cron.schedule("15 12 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1564,7 +1564,7 @@ cron.schedule("15 12 * * *", () => {
 
 //sent link agent every day at 1:15 PM after result @daimond678 ខ្មែរVIP
 cron.schedule("15 13 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1573,7 +1573,7 @@ cron.schedule("15 13 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1583,7 +1583,7 @@ cron.schedule("15 13 * * *", () => {
 
 //sent link agent every day at 1:45 PM after result @daimond678 យួន
 cron.schedule("45 13 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1592,7 +1592,7 @@ cron.schedule("45 13 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1602,7 +1602,7 @@ cron.schedule("45 13 * * *", () => {
 
 //sent link agent every day at 2:15 PM after result @daimond678 អន្តរជាតិ
 cron.schedule("15 14 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1611,7 +1611,7 @@ cron.schedule("15 14 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1621,7 +1621,7 @@ cron.schedule("15 14 * * *", () => {
 
 //sent link agent every day at 4:00 PM after result @daimond678 ខ្មែរVIP
 cron.schedule("00 16 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1630,7 +1630,7 @@ cron.schedule("00 16 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1639,7 +1639,7 @@ cron.schedule("00 16 * * *", () => {
 });
 //sent link agent every day at 4:15 PM after result @daimond678 អន្តរជាតិ
 cron.schedule("15 16 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1648,7 +1648,7 @@ cron.schedule("15 16 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1658,7 +1658,7 @@ cron.schedule("15 16 * * *", () => {
 
 //sent link agent every day at 4:15 PM after result @daimond678 យួន
 cron.schedule("45 16 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1667,7 +1667,7 @@ cron.schedule("45 16 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
@@ -1697,7 +1697,7 @@ cron.schedule("15 18 * * *", () => {
 
 //sent link agent every day at 6:45 PM after result @daimond678 យួន
 cron.schedule("45 18 * * *", () => {
-    for (let i = 0; i < chatId.length; i++) {
+  for (let i = 0; i < chatId.length; i++) {
     if (chatId[i] === "@senglychannel168") {
       bot.sendMessage(
         chatId[i],
@@ -1706,7 +1706,7 @@ cron.schedule("45 18 * * *", () => {
           "3លេខសង 90000🎉\n" +
           "🎊សងខ្ពស់នឹងរហ័សទាន់ចិត្ត\n" +
           "បងៗអាចជ្រើសរើសមេដើម្បីចាក់បាន\n" +
-          "[📥ចាក់ជាមួយ សេងលី](https://t.me/senglychannel168)\n" +
+          "[📥ចាក់ជាមួយ សេងលី](https://t.me/SenglyloterryLovn8)\n" +
           "🎁ក្រុមហ៊ុនឆ្នោតពេជ្រសូមអគុណបងៗ🎁",
         { parse_mode: "MarkdownV2" }
       );
